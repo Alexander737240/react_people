@@ -1,0 +1,16 @@
+nav ul
+{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: #282c34;
+    padding: 10px;
+    margin: 0;
+}
+nav a
+{
+    color:aliceblue;
+    text-decoration: blue;
+    
+    
+}
